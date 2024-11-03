@@ -12,11 +12,11 @@ This is a collaborative research work between the Digital Signal Processing Lab 
 <br> <!-- 添加空行 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f68a5bd-1b91-4e52-b23d-baad618df229" width="500"> 
+  <img src="https://github.com/user-attachments/assets/3f68a5bd-1b91-4e52-b23d-baad618df229" width="500">
+  <br>(a) End-to-end training of the CNN based on multi-task learning.
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <!-- 使用空格来创建间隔 -->
   <img src="https://github.com/user-attachments/assets/a624c860-9048-4c30-a1f2-f897ec3927d0" width="400">
-  <br>
-  (a) End-to-end training of the CNN based on multi-task learning; (b) Filter selection process using the trained CNN.
+  <br>(b) Filter selection process using the trained CNN.
 </p>
 
 ## Highlights
