@@ -11,7 +11,7 @@ This is a collaborative research work between the Digital Signal Processing Lab 
 
 <br> <!-- 添加空行 -->
 
-<div style="text-align: center;">
+<div align="center">
   <div style="display: inline-block;">
     <img src="https://github.com/user-attachments/assets/3f68a5bd-1b91-4e52-b23d-baad618df229" width="500">
     <br>
