@@ -4,13 +4,15 @@ This repository contains the code for the paper "**Frequency-Direction Aware Mul
 
 This is a collaborative research work between the Digital Signal Processing Lab at Nanyang Technological University and Zhejiang University.
 
+## Framework
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e2b5661-e3b8-4cfe-b25e-b784be1dffe4" width="500"><br>
-  The framework of the proposed FD-MCSFANC method
+  The framework of the proposed Frequency-Direction Aware Multichannel SFANC (FD-MCSFANC) method
 </p>
 
 <br> <!-- 添加空行 -->
 
+## Network training and inference
 <div align="center">
   <div style="display: inline-block;">
     <img src="https://github.com/user-attachments/assets/3f68a5bd-1b91-4e52-b23d-baad618df229" width="500">
@@ -25,7 +27,6 @@ This is a collaborative research work between the Digital Signal Processing Lab 
 </div>
 
 ## Highlights
-1. GFANC-RL employs RL techniques to address challenges associated with GFANC innovatively.
-2. This paper formulates the GFANC problem as a Markov Decision Process (MDP) from a decision-making perspective, laying a theoretical foundation for using RL algorithms.
-3. In the GFANC-RL method, an RL algorithm based on Soft Actor-Critic (SAC) is developed to train the CNN using unlabelled noise data and improve the exploration ability of the CNN model.
-4. Experimental results show that the GFANC-RL method effectively attenuates real-recorded noises and exhibits good robustness and transferability in different acoustic paths.
+1. We proposed the Frequency-Direction Aware Multichannel Selective Fixed-filter Active Noise Control (FD-MCSFANC) method, which incorporates both frequency and direction information of primary noises for accurate filter selection in the multichannel ANC (MCANC) system.
+2. A CNN is designed to classify noises based on both frequency components and Direction-of-Arrival (DOA), with the combined classification results determining selected control filters. A joint loss function based on multi-task learning is utilized to implement end-to-end training of the CNN.
+3. Numerical simulations show that the FD-MCSFANC method effectively attenuates noises with different frequencies and incident angles.
