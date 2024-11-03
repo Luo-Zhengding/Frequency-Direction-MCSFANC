@@ -1,6 +1,6 @@
 # Frequency-Direction-MCSFANC
 
-This repository contains the code for the paper "**Frequency-Direction Aware Multichannel Selective Fixed-Filter Active Noise Control based on Multi-Task Learning**," submitted to the **IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)** journal. The code will be provided after the paper review process is completed.
+This repository contains the code for the paper "**Frequency-Direction Aware Multichannel Selective Fixed-Filter Active Noise Control based on Multi-Task Learning**," submitted to the **IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)** journal. <u>The code will be provided after the paper review process is completed.</u>
 
 This is a collaborative research work between the Digital Signal Processing Lab at Nanyang Technological University and Zhejiang University.
 
