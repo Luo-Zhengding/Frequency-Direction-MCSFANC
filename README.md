@@ -12,13 +12,12 @@ This is a collaborative research work between the Digital Signal Processing Lab 
 <br> <!-- 添加空行 -->
 
 <p align="center">
-  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/c44ad8c5-dafb-4811-b169-fb3ebdafd9ec" width="400"> 
+  <img src="https://github.com/user-attachments/assets/3f68a5bd-1b91-4e52-b23d-baad618df229" width="400"> 
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <!-- 使用空格来创建间隔 -->
-  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/04d1ab12-beb7-4123-b680-4cf8b91d3173" width="400">
+  <img src="https://github.com/user-attachments/assets/a624c860-9048-4c30-a1f2-f897ec3927d0" width="400">
   <br>
-  Parameter update for the critic and actor in the RL algorithm.
+  (a) End-to-end training of the CNN based on multi-task learning; (b) Filter selection process using the trained CNN.
 </p>
-
 
 ## Highlights
 1. GFANC-RL employs RL techniques to address challenges associated with GFANC innovatively.
