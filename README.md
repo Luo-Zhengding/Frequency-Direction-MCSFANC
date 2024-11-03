@@ -12,12 +12,12 @@ This is a collaborative research work between the Digital Signal Processing Lab 
 <br> <!-- 添加空行 -->
 
 <div style="text-align: center;">
-  <div style="display: inline-block; margin: 20px;">
+  <div style="display: inline-block;">
     <img src="https://github.com/user-attachments/assets/3f68a5bd-1b91-4e52-b23d-baad618df229" width="500">
     <br>
     <span style="font-weight: bold;">(a) End-to-end training of the CNN based on multi-task learning.</span>
   </div>
-  <div style="display: inline-block; margin: 20px;">
+  <div style="display: inline-block;">
     <img src="https://github.com/user-attachments/assets/a624c860-9048-4c30-a1f2-f897ec3927d0" width="400">
     <br>
     <span style="font-weight: bold;">(b) Filter selection process using the trained CNN.</span>
