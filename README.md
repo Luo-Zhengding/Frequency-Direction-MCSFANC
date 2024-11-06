@@ -4,6 +4,7 @@ This repository contains the code for the paper "**Frequency-Direction Aware Mul
 
 This is a collaborative research work between the Digital Signal Processing Lab at Nanyang Technological University and Zhejiang University.
 
+<!--
 ## Framework
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e2b5661-e3b8-4cfe-b25e-b784be1dffe4" width="500"><br>
@@ -30,3 +31,4 @@ This is a collaborative research work between the Digital Signal Processing Lab 
 1. We proposed the Frequency-Direction Aware Multichannel Selective Fixed-filter Active Noise Control (FD-MCSFANC) method, which incorporates both frequency and direction information of primary noises for accurate filter selection in the multichannel ANC (MCANC) system.
 2. A CNN is designed to classify noises based on both frequency components and Direction-of-Arrival (DOA), with the combined classification results determining selected control filters. A joint loss function based on multi-task learning is utilized to implement end-to-end training of the CNN.
 3. Numerical simulations show that the FD-MCSFANC method effectively attenuates noises with different frequencies and incident angles.
+-->
