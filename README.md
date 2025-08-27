@@ -31,7 +31,7 @@ The Selective Fixed-filter Active Noise Control (SFANC) method has gained popula
   </div>
 </div>
 
-
+&nbsp;
 - In the FD-MCSFANC method, a lightweight CNN is designed to classify noises based on both frequency components and Direction-of-Arrival (DOA), with the combined classification results determining selected control filters.
 - Furthermore, a joint loss function based on multi-task learning is utilized to implement end-to-end training of the CNN.
 - Numerical simulations show that the FD-MCSFANC method effectively attenuates noises with different frequencies and incident angles. Moreover, it responds much faster than traditional adaptive algorithms and achieves better global noise control performance than the Multichannel SFANC (MCSFANC) method.
