@@ -5,7 +5,7 @@ This repository contains the code for the paper "**Frequency-Direction Aware Mul
 This is a collaborative research work between the Digital Signal Processing Lab at Nanyang Technological University, Northwestern Polytechnical University, and Zhejiang University.
 
 ## Research Background
-The Selective Fixed-filter Active Noise Control (SFANC) method has gained popularity due to its high computational efficiency and fast response. However, it solely accounts for noise frequency information, while neglecting its spatial information, which undoubtedly undermines the noise reduction performance, especially for direction-varied noises. To address this limitation, we proposed the **Frequency-Direction Aware Multichannel SFANC (FD-MCSFANC)** method, which incorporates both frequency and direction information of primary noises for accurate filter selection in the multichannel ANC (MCANC) system.
+The Selective Fixed-filter Active Noise Control (SFANC) method has gained popularity due to its high computational efficiency and fast response. However, it solely accounts for noise frequency information, while neglecting its spatial information, which undoubtedly undermines the noise reduction performance, especially for direction-varied noises. To address this limitation, we proposed the **Frequency-Direction Aware Multichannel SFANC (FD-MCSFANC)** method, which <u>incorporates both frequency and direction information of primary noises for accurate filter selection in the multichannel ANC (MCANC) system</u>.
 
 ## FD-MCSFANC Framework
 <p align="center">
