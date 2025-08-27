@@ -6,7 +6,7 @@ This is a collaborative research work between the Digital Signal Processing Lab 
 
 ## Framework
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e2b5661-e3b8-4cfe-b25e-b784be1dffe4" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/6e2b5661-e3b8-4cfe-b25e-b784be1dffe4" width="600"><br>
   The framework of the proposed Frequency-Direction Aware Multichannel SFANC (FD-MCSFANC) method
 </p>
 
