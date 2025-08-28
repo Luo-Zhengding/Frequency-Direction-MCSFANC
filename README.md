@@ -46,3 +46,5 @@ The Selective Fixed-filter Active Noise Control (SFANC) method has gained popula
 3. **Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks**  
    *Conference*: The 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022)
    *Paper Link*: [arXiv](https://arxiv.org/pdf/2208.08440)
+
+**If you are interested in our works, please consider citing our papers. Thanks! Have a great day!**
